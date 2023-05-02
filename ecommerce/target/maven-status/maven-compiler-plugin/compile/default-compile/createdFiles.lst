@@ -1,0 +1,5 @@
+com\example\Parser.class
+com\example\CommandHandler.class
+com\example\Main.class
+com\example\CommandExecutor.class
+com\example\Product.class
